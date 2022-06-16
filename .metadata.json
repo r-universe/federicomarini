@@ -1,0 +1,15 @@
+[
+  {
+    "package": "simrec",
+    "oncran": true
+  },
+  {
+    "package": "flowcatchR"
+  },
+  {
+    "package": "ideal"
+  },
+  {
+    "package": "pcaExplorer"
+  }
+]

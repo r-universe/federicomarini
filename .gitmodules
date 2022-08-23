@@ -13,6 +13,11 @@
 	url = https://github.com/federicomarini/flowcatchr
 	shallow = true
 	registered = true
+[submodule "GeneTonic"]
+	path = GeneTonic
+	url = https://github.com/federicomarini/genetonic
+	shallow = true
+	registered = true
 [submodule "ideal"]
 	path = ideal
 	url = https://github.com/federicomarini/ideal

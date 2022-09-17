@@ -23,8 +23,3 @@
 	url = https://github.com/federicomarini/ideal
 	shallow = true
 	registered = true
-[submodule "pcaExplorer"]
-	path = pcaExplorer
-	url = https://github.com/federicomarini/pcaexplorer
-	shallow = true
-	registered = true

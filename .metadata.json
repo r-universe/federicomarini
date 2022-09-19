@@ -8,5 +8,11 @@
   },
   {
     "package": "GeneTonic"
+  },
+  {
+    "package": "ideal"
+  },
+  {
+    "package": "pcaExplorer"
   }
 ]

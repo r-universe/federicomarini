@@ -18,3 +18,13 @@
 	url = https://github.com/federicomarini/genetonic
 	shallow = true
 	registered = true
+[submodule "ideal"]
+	path = ideal
+	url = https://github.com/federicomarini/ideal
+	shallow = true
+	registered = true
+[submodule "pcaExplorer"]
+	path = pcaExplorer
+	url = https://github.com/federicomarini/pcaexplorer
+	shallow = true
+	registered = true

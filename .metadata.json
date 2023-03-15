@@ -12,6 +12,9 @@
     "package": "pcaExplorer"
   },
   {
+    "package": "quantiseqr"
+  },
+  {
     "package": "simrec",
     "oncran": true
   }

@@ -23,6 +23,11 @@
 	url = https://github.com/federicomarini/pcaexplorer
 	shallow = true
 	registered = true
+[submodule "quantiseqr"]
+	path = quantiseqr
+	url = https://github.com/federicomarini/quantiseqr
+	shallow = true
+	registered = true
 [submodule "simrec"]
 	path = simrec
 	url = https://github.com/federicomarini/simrec

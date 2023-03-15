@@ -3,9 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "simrec"]
-	path = simrec
-	url = https://github.com/federicomarini/simrec
+[submodule "flowcatchR"]
+	path = flowcatchR
+	url = https://github.com/federicomarini/flowcatchr
+	shallow = true
+	registered = true
+[submodule "GeneTonic"]
+	path = GeneTonic
+	url = https://github.com/federicomarini/genetonic
 	shallow = true
 	registered = true
 [submodule "ideal"]
@@ -18,13 +23,8 @@
 	url = https://github.com/federicomarini/pcaexplorer
 	shallow = true
 	registered = true
-[submodule "GeneTonic"]
-	path = GeneTonic
-	url = https://github.com/federicomarini/genetonic
-	shallow = true
-	registered = true
-[submodule "flowcatchR"]
-	path = flowcatchR
-	url = https://github.com/federicomarini/flowcatchr
+[submodule "simrec"]
+	path = simrec
+	url = https://github.com/federicomarini/simrec
 	shallow = true
 	registered = true

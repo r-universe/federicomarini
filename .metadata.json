@@ -1,7 +1,9 @@
 [
   {
-    "package": "simrec",
-    "oncran": true
+    "package": "flowcatchR"
+  },
+  {
+    "package": "GeneTonic"
   },
   {
     "package": "ideal"
@@ -10,9 +12,7 @@
     "package": "pcaExplorer"
   },
   {
-    "package": "GeneTonic"
-  },
-  {
-    "package": "flowcatchR"
+    "package": "simrec",
+    "oncran": true
   }
 ]

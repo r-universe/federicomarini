@@ -8,16 +8,6 @@
 	url = https://github.com/federicomarini/simrec
 	shallow = true
 	registered = true
-[submodule "flowcatchR"]
-	path = flowcatchR
-	url = https://github.com/federicomarini/flowcatchr
-	shallow = true
-	registered = true
-[submodule "GeneTonic"]
-	path = GeneTonic
-	url = https://github.com/federicomarini/genetonic
-	shallow = true
-	registered = true
 [submodule "ideal"]
 	path = ideal
 	url = https://github.com/federicomarini/ideal
@@ -26,5 +16,15 @@
 [submodule "pcaExplorer"]
 	path = pcaExplorer
 	url = https://github.com/federicomarini/pcaexplorer
+	shallow = true
+	registered = true
+[submodule "GeneTonic"]
+	path = GeneTonic
+	url = https://github.com/federicomarini/genetonic
+	shallow = true
+	registered = true
+[submodule "flowcatchR"]
+	path = flowcatchR
+	url = https://github.com/federicomarini/flowcatchr
 	shallow = true
 	registered = true

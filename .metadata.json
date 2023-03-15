@@ -4,15 +4,15 @@
     "oncran": true
   },
   {
-    "package": "flowcatchR"
+    "package": "ideal"
+  },
+  {
+    "package": "pcaExplorer"
   },
   {
     "package": "GeneTonic"
   },
   {
-    "package": "ideal"
-  },
-  {
-    "package": "pcaExplorer"
+    "package": "flowcatchR"
   }
 ]

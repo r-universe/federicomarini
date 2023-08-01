@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "flowcatchR"]
-	path = flowcatchR
-	url = https://github.com/federicomarini/flowcatchr
 [submodule "GeneTonic"]
 	path = GeneTonic
 	url = https://github.com/federicomarini/genetonic
+[submodule "flowcatchR"]
+	path = flowcatchR
+	url = https://github.com/federicomarini/flowcatchr
 [submodule "ideal"]
 	path = ideal
 	url = https://github.com/federicomarini/ideal

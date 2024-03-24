@@ -5,6 +5,9 @@
 [submodule "GeneTonic"]
 	path = GeneTonic
 	url = https://github.com/federicomarini/genetonic
+[submodule "bettr"]
+	path = bettr
+	url = https://github.com/federicomarini/bettr
 [submodule "flowcatchR"]
 	path = flowcatchR
 	url = https://github.com/federicomarini/flowcatchr

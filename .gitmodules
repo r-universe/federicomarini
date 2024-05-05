@@ -2,24 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "GeneTonic"]
-	path = GeneTonic
-	url = https://github.com/federicomarini/genetonic
-[submodule "bettr"]
-	path = bettr
-	url = https://github.com/federicomarini/bettr
-[submodule "flowcatchR"]
-	path = flowcatchR
-	url = https://github.com/federicomarini/flowcatchr
-[submodule "ideal"]
-	path = ideal
-	url = https://github.com/federicomarini/ideal
-[submodule "pcaExplorer"]
-	path = pcaExplorer
-	url = https://github.com/federicomarini/pcaexplorer
-[submodule "quantiseqr"]
-	path = quantiseqr
-	url = https://github.com/federicomarini/quantiseqr
 [submodule "simrec"]
 	path = simrec
 	url = https://github.com/federicomarini/simrec
